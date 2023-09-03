@@ -16,5 +16,6 @@ border-style: solid;
 }
 
 .mole {
-    background-color: blue;
+    background-image: url("images/clown.png");
+    background-size: cover;
 }
